@@ -1,19 +1,19 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping", "alive", " anon", "पिंग"]
-START_COMMAND : ["start", "wtf", "स्टार्ट"]
-HELP_COMMAND : ["help", " hehe", "हेल्प"]
+PING_COMMAND : ["pingg", "", " anonn", "पिंग"]
+START_COMMAND : ["st", "", "स्टार्ट"]
+HELP_COMMAND : ["helpp", "", "हेल्प"]
 SETTINGS_COMMAND : ["settings", "setting", "सेटिंग्स", "सेटिंग"]
 RELOAD_COMMAND : ["admincache", "refresh", "reload", "व्यवस्थापक कैश", "पुनः लोड करें"]
-STATS_COMMAND : ["stats", "आँकड़े"]
+STATS_COMMAND : ["statss", "आँकड़े"]
 LANGUAGE_COMMAND : ["lang", "language"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "fuck", "vplay", "vfuck", "प्ले", "वीप्ले"]
+PLAY_COMMAND : ["play", "", "vplay1", "", "प्ले", "वीप्ले"]
 PLAYMODE_COMMAND : ["playmode", "खेल विधा"]
-CHANNELPLAY_COMMAND : ["channelplay", "चैनलप्ले"]
-STREAM_COMMAND : ["stream", "धारा"]
+CHANNELPLAY_COMMAND : ["channelplayy", "चैनलप्ले"]
+STREAM_COMMAND : ["streamm", "धारा"]
 
 #Playlists Command
 PLAYLIST_COMMAND : ["playlist", "प्लेलिस्ट"]
@@ -22,12 +22,12 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist", "प्लेलिस्ट-हट�
 
 # Tools
 QUEUE_COMMAND : ["queue", "पंक्ति"]
-SONG_COMMAND : ["song", "video", "गीत", "वीडियो"]
-LYRICS_COMMAND : ["lyrics", "lyric", "बोल"]
+SONG_COMMAND : ["songg", "videoo", "गीत", "वीडियो"]
+LYRICS_COMMAND : ["lyricss", "lyricc", "बोल"]
 
 
 # Admin Commands
-AUTH_COMMAND : ["auth", "allow", "प्रमाणन"]
+AUTH_COMMAND : ["auth", "alloww", "प्रमाणन"]
 UNAUTH_COMMAND : ["unauth", "disallow", "अनधिकृत"]
 AUTHUSERS_COMMAND : ["authusers", "लेखक"]
 PAUSE_COMMAND : ["pause", "ठहराव"]
@@ -56,8 +56,8 @@ GETVAR_COMMAND : ["get_var", "गेट_वर"]
 DELVAR_COMMAND : ["del_var", "देल_वर"]
 SETVAR_COMMAND : ["set_var", "सेट_वर"]
 USAGE_COMMAND : ["usage", "यूसेज"]
-UPDATE_COMMAND : ["update", "अपडेट"]
-RESTART_COMMAND : ["restart", "रीस्टार्ट"]
+UPDATE_COMMAND : ["updatee", "अपडेट"]
+RESTART_COMMAND : ["restartt", "रीस्टार्ट"]
 AUTHORIZE_COMMAND : ["authorize", "ऑथॉरिजे"]
 UNAUTHORIZE_COMMAND : ["unauthorize", "ुनौतोरीज़े"]
 AUTHORIZED_COMMAND : ["authorized", "ऑथॉरिज़ेड"]
@@ -65,6 +65,6 @@ BLOCK_COMMAND : ["block", "ब्लॉक"]
 UNBLOCK_COMMAND : ["unblock", "ुंब्लॉकेड"]
 BLOCKED_COMMAND : ["blockedusers", "ब्लॉकेडूसेर्स"]
 VIDEOMODE_COMMAND : ["videomode", "विडोमोडे"]
-SPEEDTEST_COMMAND : ["speedtest", स्पीडटेस्ट]
+SPEEDTEST_COMMAND : ["speedtestt", स्पीडटेस्ट]
 ACTIVEVC_COMMAND : ["activevoice", "activevc", "एक्टीवेवोईस"]
 ACTIVEVIDEO_COMMAND : ["activevideo", "एक्टीवेविडो"]
